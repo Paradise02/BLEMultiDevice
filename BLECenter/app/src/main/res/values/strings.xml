@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BLECenter</string>
+    <string name="connect">s_view_btn</string>
+    <string name="scan">scan</string>
+    <string name="read">read</string>
+    <string name="write">write</string>
+</resources>
